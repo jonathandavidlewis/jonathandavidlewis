@@ -43,29 +43,29 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat&logo=testing-library&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=flat&logo=mocha&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-Selenium-lightgreen)
-![Cypress](https://img.shields.io/badge/Cypress-cypress-blue)
-![Spring Test](https://img.shields.io/badge/Spring%20Test-Spring%20Test-green)
+![Selenium](https://img.shields.io/badge/Selenium-lightgreen)
+![Cypress](https://img.shields.io/badge/Cypress-blue)
+![Spring Test](https://img.shields.io/badge/Spring%20Test-green)
 
 
 #### Deployement, Infra, & Scaling
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-docker-lightblue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-k8-purple)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-purple)
 <!-- ![Puppet]() -->
 
 #### Technical Writing and communication
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Lucid Chart](https://img.shields.io/badge/Lucid%20Chart-Lucid%20Chart-red)
-![Draw.io](https://img.shields.io/badge/Draw.io-Draw.io-orange)
+![Lucid Chart](https://img.shields.io/badge/Lucid%20Chart-red)
+![Draw.io](https://img.shields.io/badge/Draw.io-orange)
 
 #### Design
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![After Effects](https://aleen42.github.io/badges/src/after_effects.svg)
 ![Premiere](	https://aleen42.github.io/badges/src/premiere.svg)
 <!-- ![3D Studio MAX]() -->
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-Adobe%20XD-pink)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-pink)
 <!-- ![Zeplin](https://aleen42.github.io/badges/src/zeplin.svg) -->
 
 ------------
